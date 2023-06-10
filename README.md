@@ -1,6 +1,6 @@
 <h2 align="center">👋Hi ! I am a Full-Stack developer👋</h2>
 As a Incredible FullStack Developer, I am proficient in both front-end and back-end development, and have the skills and expertise to design and build web applications from start to finish. <br />
-Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java, Kotlin, Flutter, React, Vue.js, Angular With a deep understanding of programming languages, databases, and web frameworks, I am able to create dynamic and responsive websites that meet the needs of businesses and users alike. Whether it's coding in HTML, CSS, and JavaScript to create user interfaces, or working with PHP, Python, and SQL to create server-side logic and handle data, I have the know-how to tackle any challenge and deliver high-quality, scalable solutions.
+Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java, Kotlin, Flutter, React, Vue.js, Angular With a deep understanding of programming languages, databases, and web frameworks. <br />I am able to create dynamic and responsive websites that meet the needs of businesses and users alike. Whether it's coding in HTML, CSS, and JavaScript to create user interfaces, or working with PHP, Python, and SQL to create server-side logic and handle data, I have the know-how to tackle any challenge and deliver high-quality, scalable solutions.
 No limit to his passion!
 <br clear="both">
 
