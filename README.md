@@ -1,7 +1,7 @@
 <h2 align="center">👋Hi ! I am a Full-Stack developer👋</h2>
-
-Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
-
+As a Incredible FullStack Developer, I am proficient in both front-end and back-end development, and have the skills and expertise to design and build web applications from start to finish. 
+Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java, Kotlin, Flutter, React, Vue.js, Angular With a deep understanding of programming languages, databases, and web frameworks, I am able to create dynamic and responsive websites that meet the needs of businesses and users alike. Whether it's coding in HTML, CSS, and JavaScript to create user interfaces, or working with PHP, Python, and SQL to create server-side logic and handle data, I have the know-how to tackle any challenge and deliver high-quality, scalable solutions.
+No limit to his passion!
 <br clear="both">
 
 ### <h2 align="left">Stats</h2>
