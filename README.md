@@ -7,7 +7,10 @@ No limit to my passion!
 <br clear="both">
 
 ### <h2 align="left">Stats</h2>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yummo8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yummo8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+</div>
 
 <br clear="both">
 
