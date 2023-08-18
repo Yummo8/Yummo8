@@ -1,7 +1,6 @@
 <h2 align="center">👋Hi ! I am a Full-Stack developer👋</h2>
 <p align="center">Life's too short not to live it to the fullest!<p><br/>
-As a Incredible FullStack Developer, I am proficient in both front-end and back-end development, and have the skills and expertise to design and build web applications from start to finish. <br />
-Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java, Kotlin, Flutter, React, Vue.js, Angular With a deep understanding of programming languages, databases, and web frameworks. <br />I am able to create dynamic and responsive websites that meet the needs of businesses and users alike. <br />Whether it's coding in HTML, CSS, and JavaScript to create user interfaces, or working with PHP, Python, and SQL to create server-side logic and handle data, I have the know-how to tackle any challenge and deliver high-quality, scalable solutions.<br />
+I am a highly skilled and experienced senior mobile developer with a passion for creating innovative and user-friendly mobile applications.<br /> With a proven track record of successfully delivering high-quality mobile solutions, I excel in both iOS and Android development.<br /> My expertise extends from application design and architecture to implementation and testing, ensuring that every project I undertake meets the highest standards of performance and user satisfaction.<br />
 No limit to my passion!
 
 <br clear="both">
